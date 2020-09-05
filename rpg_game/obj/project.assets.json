@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Łukasz\\Source\\Repos\\rpg_gameVS\\rpg_game\\rpg_game.csproj",
+      "projectUniqueName": "C:\\Users\\Łukasz\\source\\repos\\rpg_game\\rpg_game\\rpg_game.csproj",
       "projectName": "rpg_game",
-      "projectPath": "C:\\Users\\Łukasz\\Source\\Repos\\rpg_gameVS\\rpg_game\\rpg_game.csproj",
+      "projectPath": "C:\\Users\\Łukasz\\source\\repos\\rpg_game\\rpg_game\\rpg_game.csproj",
       "packagesPath": "C:\\Users\\Łukasz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Łukasz\\Source\\Repos\\rpg_gameVS\\rpg_game\\obj\\",
+      "outputPath": "C:\\Users\\Łukasz\\source\\repos\\rpg_game\\rpg_game\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Łukasz\\AppData\\Roaming\\NuGet\\NuGet.Config",

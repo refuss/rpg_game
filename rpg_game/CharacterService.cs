@@ -17,6 +17,8 @@ namespace rpg_game
         //adding new character
         public ActionMenuService actionService;
 
+
+
         public CharacterService(ActionMenuService actionService)
         {
             this.actionService = actionService;
